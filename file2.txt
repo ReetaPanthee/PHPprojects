@@ -1,0 +1,5 @@
+I have a strong foundation in HTML, CSS, JavaScript and computer Networking along with familiarity with development tools like VS Code, Git.
+ I am proficient in creating and designing complex web pages. I have a good understanding of JavaScript, particularly in DOM manipulation. 
+ I have basic knowledge of PHP and SQL, which I have used in academic projects to build server-side applications and manage databases. 
+ I possess a basic understanding of client/server architecture, network protocols, and network security measures. 
+ I have good communication skills in English, both written and verbal.
